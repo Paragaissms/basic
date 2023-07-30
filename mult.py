@@ -1,1 +1,2 @@
 print("multiply")
+print("divisin")
